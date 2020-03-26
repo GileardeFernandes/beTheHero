@@ -51,3 +51,42 @@
     list-style: none;
 }
 
+
+.profile-container ul li {
+   background: #fff;
+   padding: 24px;
+   border-radius: 8px;
+   position: relative;
+}
+
+.profile-container ul li button {
+     position: absolute;
+     right: 24px;
+     top: 24px;
+     border: 0;
+
+}
+
+.profile-container ul li button:hover {
+    opacity: 0.8;
+}
+
+.profile-container ul li strong {
+   display: block;
+   margin-bottom: 16x;
+   color:#41414d;
+}
+
+.profile-container ul li p + strong {
+    margin-top: 32px;
+ }
+
+ .profile-container ul li p {
+     color:#737380;
+     line-height: 21px;
+     font-size: 16px;
+     margin-top: 10px;
+ }
+
+
+
