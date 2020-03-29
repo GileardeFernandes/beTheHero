@@ -14,6 +14,7 @@ Projeto resultado da Semana OmniStack #11.0
 </li>
 <li>
 <p>Mobile</p>
+</li>
 <ul>
 <li><a href="https://facebook.github.io/c/" target="_blank">React_Native</a></li>
 <li><a href="https://expo.io/" target="_blank">Expo</a><l/i>
