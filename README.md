@@ -12,6 +12,7 @@ Projeto resultado da Semana OmniStack #11.0
 <li> <a href="https://github.com/axios/axios"  target="_blank"  >Axios</></li>
 </ul>
 </li>
+<li>
 <p>Mobile</p>
 <ul>
 <li><a href="https://facebook.github.io/c/" target="_blank">React_Native</a></li>
