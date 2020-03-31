@@ -1,4 +1,4 @@
-![Be The Hero](https://github.com/GileardeFernandes/beTheHero/blob/master/logo.png)
+![Be The Hero](https://github.com/GileardeFernandes/beTheHero/blob/master/betheHerCpl.png)
 
 Projeto resultado da Semana OmniStack #11.0
 
